@@ -33,4 +33,4 @@
 ## Table of Contents
 
 - [Introduction](#about-encryption)
-- [Types of Encryption](#types-of-introduction)
+- [Types of Encryption](#encryption-algorithms)
