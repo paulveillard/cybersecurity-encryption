@@ -6,9 +6,12 @@
 
 ## About Encryption
 
-![encryption](https://github.com/paulveillard/cybersecurity-encryption/blob/main/img/typesof-encryption.png)
+
 
 ## Encryption Algorithms
+
+![encryption](https://github.com/paulveillard/cybersecurity-encryption/blob/main/img/typesof-encryption.png)
+
 ### Symmetric key 
 > Symmetric key algorithms use the same key to both encrypt and decrypt data. They are generally faster than asymmetric key algorithms and are often used to encrypt large blocks of data. Algorithms you'll hear mentioned include DES, TripleDES, RC5, and AES (the standard for the U.S. government). Either TripleDES or AES is required when encrypting stored credit card numbers.
 
