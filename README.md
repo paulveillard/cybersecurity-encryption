@@ -5,9 +5,7 @@
 
 
 ## About Encryption
-**One of the best ways to protect the data transferred over the Internet is encryption.** In cryptography, encryption is the process of encoding information.
-
-This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information.
+**One of the best ways to protect the data transferred over the Internet is encryption.** In cryptography, encryption is the process of encoding information. This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information.
 
 
 
