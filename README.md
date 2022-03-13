@@ -5,6 +5,11 @@
 
 
 ## About Encryption
+**One of the best ways to protect the data transferred over the Internet is encryption.**
+
+- Encryption is a way of converting plaintext into ciphertext (an encoded text that is not understandable by the third party). 
+
+> Encryption requires the use of an encryption key and an encryption algorithm. The key is used to encrypt/decrypt the plaintext into ciphertext. How that key is used to encrypt the plaintext is defined by the encryption algorithm. Both the receiver and the sender must have the encryption key.
 
 
 
