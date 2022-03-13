@@ -32,5 +32,5 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#about-encryption)
 - [Types of Encryption](#types-of-introduction)
