@@ -9,6 +9,8 @@
 
 - Encryption is a way of converting plaintext into ciphertext (an encoded text that is not understandable by the third party). 
 
+![encryption-introdcution](https://github.com/paulveillard/cybersecurity-encryption/blob/main/img/1.png)
+
 > Encryption requires the use of an encryption key and an encryption algorithm. The key is used to encrypt/decrypt the plaintext into ciphertext. How that key is used to encrypt the plaintext is defined by the encryption algorithm. Both the receiver and the sender must have the encryption key.
 
 
