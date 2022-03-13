@@ -6,6 +6,7 @@
 
 ## About Encryption
 
+![encryption](https://github.com/paulveillard/cybersecurity-encryption/blob/main/img/typesof-encryption.png)
 
 ## Encryption Algorithms
 ### Symmetric key 
