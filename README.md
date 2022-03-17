@@ -33,7 +33,7 @@ An ongoing & curated collection of awesome software best practices and technique
 > Hash algorithms produce a result that is not decryptable. They are typically used for comparing two values to ensure they're the same. For example, digital signature verification uses a hash function to ensure that the signed document has not been altered. Because a hashed value cannot return the original value, this method provides the most secure form of storing data and is the most appropriate method when the original (cleartext) form is not required. MD5 and SHA-1 are two examples of hash algorithms.
 
 
-## Table of Contents
+## `Table of Contents`
 
 - [Introduction](#about-encryption)
 - [Types of Encryption](#encryption-algorithms)
